@@ -37,5 +37,5 @@ Built with:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YourUsername/clipit.git
-cd clipit
+git clone https://github.com/RoysonDsz/clipIt.git
+cd clipIt
